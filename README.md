@@ -40,7 +40,7 @@ Body | Známky
 49% - 40% | 4
 39% - 30% | 5
 
-# **Rozdelenie úloh a bodov**
+## **Rozdelenie úloh a bodov**
 
  Úlohy 1.Polrok | Max. bodov |  Úlohy 2.Polrok | Max. bodov
 ------------ | ------------- | ------------- | -------------
