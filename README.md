@@ -1,37 +1,52 @@
-# Materiály - Python pre pokročilých 
+# Materiály - 🐍 Python pre pokročilých 
 
-* **Názov kurzu:** Python pre pokročilých :snake: :snake: :snake:
-* **Predmet:** Programovanie
-* **Trieda:** IV.ročník
+* 🐍 **Názov kurzu:** Python pre pokročilých
+* 📙 **Predmet:** PRO
+* 🎓 **Trieda:** IV.ročník
 
-**Popis:**
+<br>
+
+## **Popis:**
+> <br>
 > Tento kurz je zameraný na pokročilejšie pracovanie v jazyku Python.
-> Nebudeme sa tu priveľmi venovať základom, len ich rýchlo preletíme.
-> Ak by ste si predsa len chceli prejsť základy odporúčam web: [python.cz](https://naucse.python.cz/course/pyladies/)
-> Dovolím si tvrdiť, že je to najlepšie spracovaný web pre výuku v jazyky Python a niektoré príklady som si z tohoto webu vypožičial práve do tohoto kurzu.
-> Dúfam, že autor na mňa za to nebude nahnevaný. :flushed: :flushed:
+> Nebudeme sa tu priveľmi venovať základom, tie iba ich rýchlo preletíme. 
+> Ukáźeme si rôzne oblasti v ktorých sa python využíva. Naučíme sa používať užitočné knižnice.
+> <br> <br>
 
-#
+<br>
 
-**Prerequisites**
-* Základy programovania v ľubovolnom jazyku
-  * Premenné, cykly, vetvenie, polia, funkcie...
-  * OOP (Objected oriented programming)
-* Základy angličtiny
-* Ovládanie príkazového riadku je _výhodou_
-* **Vedieť používať Google**    
+**Web v češtine pre prejdenie základov [python.cz](https://naucse.python.cz/course/pyladies/)**
 
-**Nástroje ktoré potrebujeme**
-* [Python](https://www.python.org/downloads/) 
-* [PyCharm](https://www.jetbrains.com/pycharm/download/)
+<br>
+
+## **Prerequisites**
+* 👨‍💻 Základy programovania v ľubovolnom jazyku
+  * ➡️ Premenné, cykly, vetvenie, polia, funkcie...
+  * ➡️ OOP (Objected oriented programming)
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Základy angličtiny
+* 💻 Ovládanie príkazového riadku je _výhodou_
+* 🔎 **Vedieť používať Google**    
+
+<br>
+
+
+## **Nástroje ktoré budeme využívať**
+* [Python](https://www.python.org/downloads/) - Interpreter jazyka Python ⭐⭐⭐⭐⭐
+* [PyCharm](https://www.jetbrains.com/pycharm/download/) - IDE ⭐⭐⭐⭐⭐
+* [Anaconda](https://www.anaconda.com/products/individual) - Alternatívne IDE ⭐⭐⭐⭐⭐
+* [VS Code](https://code.visualstudio.com/) - Ďalšia alternatíva
+
+<br>
+
 
 ## **Systém Hodnotenia**
-> Počas kurzu budete spracovávať zadania, za ktoré budete hodnotený bodmi (rozpis nižšie).
-> V základe môžete získať 0-100 bodov za pol rok za vypracovanie úloh a testov. 
-> Je možné však získať bodov aj viac a to za pridanú hodnotu (vlastné vylepšenia) úloh ktoré vypracujete.
+> <br>
+> Počas kurzu budete vypracovávať zadania, za ktoré budete hodnotený bodmi (rozpis nižšie). V základe môžete získať 0-100 bodov za pol rok za vypracovanie úloh a testov. Je možné však získať bodov aj viac a to za pridanú hodnotu (vlastné vylepšenia) úloh ktoré vypracujete.
+> <br> <br>
+
+<br>
 
 **Výsledné hodnotenie je počítané následovne**
-
 Body | Známky
 ------------ | -------------
 100% - 90% | 1
@@ -39,6 +54,8 @@ Body | Známky
 74% - 50% | 3
 49% - 40% | 4
 39% - 30% | 5
+
+<br>
 
 ## **Rozdelenie úloh a bodov**
 
