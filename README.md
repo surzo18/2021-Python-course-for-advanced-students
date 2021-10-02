@@ -1,4 +1,4 @@
-# M - Python pre pokročilých 
+# Materiály - Python pre pokročilých 
 
 * **Názov kurzu:** Python pre pokročilých :snake: :snake: :snake:
 * **Predmet:** Programovanie
